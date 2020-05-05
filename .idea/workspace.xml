@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51946788-31b1-4d57-8808-d5445c30c196" name="Default Changelist" comment="p1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bSwFBaJKkiUkk615JIgnWjDtUA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="winwink.DesignPattern.P1.Introduction.Main" />
+      <module name="Java_Tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="winwink.DesignPattern.P1.Introduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="winwink.javaTutorial.Main" />
+      <module name="Java_Tutorial" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51946788-31b1-4d57-8808-d5445c30c196" name="Default Changelist" comment="" />
+      <created>1588638696833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588638696833</updated>
+      <workItem from="1588638701310" duration="4652000" />
+    </task>
+    <task id="LOCAL-00001" summary="p1">
+      <created>1588643245938</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588643245938</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="p1" />
+    <option name="LAST_COMMIT_MESSAGE" value="p1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="534" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1588642619906">
+      <screen x="0" y="0" width="1456" height="864" />
+    </state>
+    <state x="534" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1456.864@0.0.1456.864" timestamp="1588642619906" />
+    <state width="1413" height="221" key="GridCell.Tab.0.bottom" timestamp="1588643251154">
+      <screen x="0" y="0" width="1456" height="864" />
+    </state>
+    <state width="1413" height="221" key="GridCell.Tab.0.bottom/0.0.1456.864@0.0.1456.864" timestamp="1588643251154" />
+    <state width="1413" height="221" key="GridCell.Tab.0.center" timestamp="1588643251154">
+      <screen x="0" y="0" width="1456" height="864" />
+    </state>
+    <state width="1413" height="221" key="GridCell.Tab.0.center/0.0.1456.864@0.0.1456.864" timestamp="1588643251154" />
+    <state width="1413" height="221" key="GridCell.Tab.0.left" timestamp="1588643251154">
+      <screen x="0" y="0" width="1456" height="864" />
+    </state>
+    <state width="1413" height="221" key="GridCell.Tab.0.left/0.0.1456.864@0.0.1456.864" timestamp="1588643251154" />
+    <state width="1413" height="221" key="GridCell.Tab.0.right" timestamp="1588643251154">
+      <screen x="0" y="0" width="1456" height="864" />
+    </state>
+    <state width="1413" height="221" key="GridCell.Tab.0.right/0.0.1456.864@0.0.1456.864" timestamp="1588643251154" />
+  </component>
+</project>
